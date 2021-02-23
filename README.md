@@ -9,3 +9,5 @@
 Course website: https://nt246.github.io/NTRES-6100-data-science/
 
 <br>
+
+Lab 2: https://github.com/TaoSunCornell/broiler_leaky_gut.git
